@@ -1,0 +1,17 @@
+name: PvPTitles
+main: org.realcodingteam.pvptitles.PvPTitles
+version: 1.0
+author: RealCodingTeam
+commands:
+   fame:
+      description: Show you information about your rank and fame
+      usage: /<command> [player]
+   ladder:
+      description: List the top five players
+      usage: /<command>
+   pvptitles:
+      description: Display information about this plugin
+      usage: /<command>
+   setfame:
+      description: Change a players fame in game
+      usage: /<command> <player> <amt>
